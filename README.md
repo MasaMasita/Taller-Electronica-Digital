@@ -7,5 +7,5 @@ Bitácora, encargos, talleres de Electronica Digital
 
 Janese Swanson - Girl Tech
 
-[ historia de Janese Swanson ]< https://lemelson.mit.edu/resources/janese-swanson >
+[historia de Janese Swanson]<https://lemelson.mit.edu/resources/janese-swanson>
 
