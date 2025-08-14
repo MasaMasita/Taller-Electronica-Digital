@@ -6,6 +6,11 @@ Bitácora, encargos, talleres de Electronica Digital
 ### Encargo 1: Referente
 
 Janese Swanson - Girl Tech
+ <https://lemelson.mit.edu/resources/janese-swanson>
 
-[historia de Janese Swanson] <https://lemelson.mit.edu/resources/janese-swanson>
+### Encargo 2: Escrito
+
+Por escrito Gallina una - Julio Cortazar
+
+<https://ciudadseva.com/texto/por-escrito-gallina-una/>
 
