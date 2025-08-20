@@ -2,9 +2,9 @@
 
 ## Conocimientos teóricos preliminares
 
-Repasamos a grandes rasgos la historia de la programación, desde el concepto del código binario hasta la
-programación al como la conocemos hoy en dia.
-También introducimos algunos conceptos claves como lenguaje de programación, sintaxis, interfaz, consola, entre otros. 
+Repasamos a grandes rasgos la historia de la programación, desde el concepto del código binario hasta la  
+programación al como la conocemos hoy en dia.  
+También introducimos algunos conceptos claves como lenguaje de programación, sintaxis, interfaz, consola, entre otros.   
 
 ## Processing
 
