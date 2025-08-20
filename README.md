@@ -10,7 +10,5 @@ Janese Swanson - Girl Tech
 
 ### Encargo 2: Escrito
 
-Por escrito Gallina una - Julio Cortazar
-
-<https://ciudadseva.com/texto/por-escrito-gallina-una/>
-
+"Nunca me faltes, nunca me enagñes"
+del marcianito 100% real no fake
