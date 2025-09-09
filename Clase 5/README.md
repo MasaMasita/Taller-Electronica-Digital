@@ -2,8 +2,11 @@
 
 ## Variables
 Explicación de Array. Espacio reservado con la analogía de una cajonera
-for  
-## Uso de la pantalla
-# Protocolos
+Explicación de for
+## Uso del display
+Uso de librerias
+Como poner textos en la pntalla
+Como poner imagenes en la pantalla
+
 
 
