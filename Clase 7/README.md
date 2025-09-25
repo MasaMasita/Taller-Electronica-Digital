@@ -12,3 +12,6 @@ Fenómeno -> sensor-> señal-> Microcontrolador info(variable)-->uso la variable
 Paso 1: declarar las variables
 Paso 2: usar setup para inicializar lo que vamos a utilizar
 paso 3: se usan las variables para guardar la informacion del mundo en el loop
+## Uso de cámara en processing
+descargamos la librería de video de processing para usar la cámara del computador en processing
+Conocimos las Clases de tipo Capture
