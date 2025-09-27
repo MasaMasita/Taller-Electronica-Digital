@@ -3,7 +3,7 @@
 ## Conocimientos teóricos preliminares
 
 Repasamos a grandes rasgos la historia de la programación, desde el concepto del código binario hasta la  
-programación al como la conocemos hoy en dia.  
+programación como la conocemos hoy en dia.  
 También introducimos algunos conceptos claves como lenguaje de programación, sintaxis, interfaz, consola, entre otros.   
 
 ## Processing
@@ -15,7 +15,7 @@ gráficas e imagenes a base de un código reflejado en el sketch.
 ### Conceptos:
 
 Funcion: opera bajo una lógica similar a la ecuación de la recta f(x) ya que todas las funciones se escriben de esa forma  
-donde f es la función y (x) el argumento    
+donde f es la función y (x) el argumento.
 Variable: Es un contenedor ya que guarda la información en una memoria. Es el valor asignado a (x). Es necesario establecer primero  
 el tipo de variable que se va a usar y una vez realizado, puedo agregar una función.   
 Signos:   
