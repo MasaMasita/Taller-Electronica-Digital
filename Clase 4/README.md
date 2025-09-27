@@ -4,9 +4,9 @@
 Ley de Ohm
 
 ## Elementos del Arduino
-Arduino. 
+Arduino 
 
-protoboard. 
+protoboard 
 
 leds
 resistencia de 1k: café, negro, rojo, dorado
