@@ -8,11 +8,16 @@ Arduino
 
 protoboard 
 
-leds
-resistencia de 1k: café, negro, rojo, dorado
-LED: Light Emiter Diode
- pata larga del led es positivo. 
- parte plana del circulo del led es el negativo
+leds  
+
+resistencia de 1k: café, negro, rojo, dorado  
+
+LED: Light Emiter Diode  
+
+ pata larga del led es positivo  
+
+ parte plana del circulo del led es el  
+ negativo
 
 ## Ejercicio
 en la protoboard, poner la resistencia en vertical
