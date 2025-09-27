@@ -24,5 +24,9 @@ en la protoboard, poner la resistencia en vertical
 
 poner el led, cosa que la pata positiva coincida en la fila de una de las patas de la resistencia  
 
-conectar un cable que coincida en la pata negativa del led hasta el negativo de al protoboard
+conectar un cable que coincida en la pata negativa del led hasta el negativo de al protoboard  
+unir el polo positivo al 5V del Arduino  
+unir el polo negativo al GND del Arduino  
+unir la pata libre de la resistencia al pin que se desea manejar (Digital)  
+
 
